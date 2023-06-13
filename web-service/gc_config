@@ -1,0 +1,12 @@
+[s3]
+bucket_name = TBA
+
+[s3readonly]
+region_name = TBA
+aws_access_key_id = TBA
+aws_secret_access_key = TBA
+
+[s3readwrite]
+region_name = TBA
+aws_access_key_id = TBA
+aws_secret_access_key = TBA

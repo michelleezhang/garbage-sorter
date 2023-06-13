@@ -1,0 +1,2 @@
+[client] 
+webservice=http://Garb-collect-web-service-env.eba-pgpmmtmq.us-east-2.elasticbeanstalk.com

@@ -1,0 +1,8 @@
+#List all the python libraries 
+#os
+pathlib 
+tensorflow 
+numpy 
+boto3
+configparser
+Pillow
